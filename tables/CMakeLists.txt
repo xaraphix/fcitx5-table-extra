@@ -1,11 +1,6 @@
 set(TABLE_NAME
-  boshiamy zhengma cangjie3 cangjie5 cangjie-large
-  quick3 quick5 quick-classic
-  scj6 easy-large wu cantonese cantonhk jyutping-table stroke5 array30 array30-large
-  wubi-large zhengma-large zhengma-pinyin
-  t9
-  wubi98 wubi98-pinyin wubi98-single
-  wubi98-large
+  xaraphix-french
+  xaraphix-german
   )
 
 set(MB_FILE)
